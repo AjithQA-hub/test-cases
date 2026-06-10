@@ -1,7 +1,7 @@
 # Manual Test Cases – Firefly finance App
 
 **Base URL:**  
-[https://finance-app-demo.com](https://demo.firefly-iii.org/login)
+[https://demo.firefly-iii.org/login](https://demo.firefly-iii.org/login)
 
 ## Login Test Data
 
